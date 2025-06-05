@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "backend-i",
+  "version": "1.0.0",
+  "main": "exercicio_01.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohenrique-py/Backend-I.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohenrique-py/Backend-I/issues"
+  },
+  "homepage": "https://github.com/pedrohenrique-py/Backend-I#readme",
+  "description": ""
+}
